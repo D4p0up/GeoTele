@@ -7,3 +7,5 @@ Layer 1 to 6 - 6mm wood
 Openscad file allows to visualise in 3D final result.
 
 Designed with Inkscape and Openscad
+
+Content provided under CERN Open Hardware Licence Version 2
